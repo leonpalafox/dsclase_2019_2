@@ -99,7 +99,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_20192.pdf)
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_1_20192.pdf)
 
 
 
