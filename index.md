@@ -99,10 +99,10 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_2_20191.pptx)
-- [Clase 2 - Datos](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_2_20191.pptx)
-- [Clase 3 - Proyectos de Datos](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_3_20191.pptx)
-- [Clase 4 - Visualizaciones - Python](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_4_20191.pptx)
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_2_20192.pptx)
+- [Clase 2 - Datos](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_2_20192.pptx)
+- [Clase 3 - Proyectos de Datos](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_3_20192.pptx)
+- [Clase 4 - Visualizaciones - Python](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_4_20192.pptx)
 
 
 
