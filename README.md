@@ -99,15 +99,18 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_1_20192.pdf)
-
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_2_20191.pptx)
+- [Clase 2 - Datos](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_2_20191.pptx)
+- [Clase 3 - Proyectos de Datos](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_3_20191.pptx)
+- [Clase 4 - Visualizaciones - Python](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_4_20191.pptx)
 
 
 
 # Ejercicios
 
-
-
+- [Ejercicio 1 de Python](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)
+- [Ejercicio 2 de Python](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Capitulo1Introduccion/IntroduccionPythonTitanic.ipynb)
+- [Ejercicio 3 de Visualizaciones](https://colab.research.google.com/drive/1FU3yeJlsvwrg5yyt4OQ5br0Aw5cWy4Su)
 
 
 # Tareas
