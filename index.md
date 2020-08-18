@@ -3,9 +3,9 @@
 - [Introducción](#introduccion)
 - [Objetivo](#objetivo)
 - [Estructura del Curso:](#estrctura-del-curso)
-  - [Horas de Clase](#horas-de-clase)
-  - [Sitio web de la clase](#sitio-web)
-  - [Horas de Oficina](#horas-de-oficina)
+	- [Horas de Clase](#horas-de-clase)
+	- [Sitio web de la clase](#sitio-web)
+	- [Horas de Oficina](#horas-de-oficina)
 - [Evaluación](#evaluacion)
 - [Absentismo](#absentismo)
 - [Temario](#temario)
@@ -29,11 +29,11 @@ El curso inducirá al alumno a la ciencia de datos y proporcionará conocimiento
 
 ## Horas de clase
 
-Esta clase será los Lunes de 7:00 p.m a 10:00 p.m.
+Esta clase será los Martes de 7:00 p.m a 10:00 p.m.
 
 ## Sitio web
 
-Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dsclase_2019_2/
+Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dsclase_2020_2/
 
 ## Horas de oficina
 
@@ -45,13 +45,13 @@ La evaluación consistirá en:
 
 - El proyecto final será el 60% de la evaluación final.
     - El proyecto final consistira en el uso de un set de datos de su preferencia para diseñar un caso de negocio.
-  - Pueden hacer equipos de hasta tres personas.
-  - Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
+	- Pueden hacer equipos de hasta tres personas.
+	- Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
     - [Template](https://github.com/leonpalafox/dsclase/blob/master/Resources/TemplateProyecto.docx)
 
 - El restante 40% será distribuido de la siguiente forma:
-  - Dos examenes. 
-  - Dos tareas.
+	- Dos examenes. 
+	- Dos tareas.
   - Participación en clase
 
 
@@ -99,16 +99,13 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_2_20192.pptx)
-
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase_2020_2/blob/master/Slides/Clase_1_20192.pptx)
+- [Clase 2 - Datos](https://github.com/leonpalafox/dsclase_2020_2/blob/master/Slides/Clase_2_20192.pptx)
+- [Clase 3/4 - Datos](https://github.com/leonpalafox/dsclase_2020_2/blob/master/Slides/Clase_3_20192.pptx)
 
 
 
 # Ejercicios
-
-
-
-
 
 
 
@@ -125,9 +122,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Sets de Datos
 
-- [Ventas de autos en Noruega](https://raw.githubusercontent.com/leonpalafox/ticlase/master/Resources/Datasets/newcarsalesnorway/norway_new_car_sales_by_model.csv)
-- [Autos Uber](https://raw.githubusercontent.com/leonpalafox/mlclase/master/Unsupervised/data_clustering/uber-raw-data-jul14.csv)
-- [Estaciones de Ecobicis](https://raw.githubusercontent.com/leonpalafox/dsclase_2019_1/master/ecobicis/data/estaciones.csv)
+
 
 # Libros de texto
 

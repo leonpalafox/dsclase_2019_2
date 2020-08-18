@@ -29,11 +29,11 @@ El curso inducirá al alumno a la ciencia de datos y proporcionará conocimiento
 
 ## Horas de clase
 
-Esta clase será los Lunes de 7:00 p.m a 10:00 p.m.
+Esta clase será los Martes de 7:00 p.m a 10:00 p.m.
 
 ## Sitio web
 
-Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dsclase_2019_2/
+Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dsclase_2020_2/
 
 ## Horas de oficina
 
@@ -99,7 +99,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_2_20192.pptx)
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase_2020_2/blob/master/Slides/Clase_1_20192.pptx)
+- [Clase 2 - Datos](https://github.com/leonpalafox/dsclase_2020_2/blob/master/Slides/Clase_2_20192.pptx)
+- [Clase 3/4 - Datos](https://github.com/leonpalafox/dsclase_2020_2/blob/master/Slides/Clase_3_20192.pptx)
 
 
 
