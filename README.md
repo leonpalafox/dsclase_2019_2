@@ -100,14 +100,14 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Slides
 
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase_2020_2/blob/master/Slides/Clase_1_20192.pptx)
-- [Clase 2 - Datos](https://github.com/leonpalafox/dsclase_2020_2/blob/master/Slides/Clase_2_20192.pptx)
-- [Clase 3/4 - Datos](https://github.com/leonpalafox/dsclase_2020_2/blob/master/Slides/Clase_3_20192.pptx)
+    - [Clase 2 - Datos](https://github.com/leonpalafox/dsclase_2020_2/blob/master/Slides/Clase_2_20192.pptx)
+    - [Clase 3/4 - Datos](https://github.com/leonpalafox/dsclase_2020_2/blob/master/Slides/Clase_3_20192.pptx)
 
 
 
 
 # Ejercicios
-
+- [Ejercicio Titanic](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Capitulo1Introduccion/IntroduccionPythonTitanic.ipynb)
 
 
 # Tareas

@@ -107,7 +107,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Ejercicios
 
-
+- [Ejercicio Titanic](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Capitulo1Introduccion/IntroduccionPythonTitanic.ipynb)
 
 # Tareas
 
