@@ -109,6 +109,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 - [Ejercicio Titanic](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Capitulo1Introduccion/IntroduccionPythonTitanic.ipynb)
 - [Ejercicio Uber](https://colab.research.google.com/drive/1w3risI6kOJD2n_Fkn1PMvHgfeX7csyDZ?usp=sharing)
+- [Ejercicio Agrupamientos(https://colab.research.google.com/drive/1H6bvVxXdtVGgWjKBhcprOyJ9SHwhYxua)]
 
 
 # Tareas
